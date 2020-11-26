@@ -1,0 +1,73 @@
+body{
+background-image:url(https://cutewallpaper.org/21/odin-wallpaper-hd/Die-60-Besten-Viking-Wallpapers.jpg);
+    display: flexbox;
+    width:100%;
+}
+.container{
+    text-align: center;
+}
+
+.cabeza{
+    padding-right: 100px;
+    width: 100%;
+}
+.Queja_cuerpo{
+    display: block;
+    width: 100%;
+}
+.h4 {
+    text-align: center;
+}
+.navegacion{
+    display: block;
+    width: 100%;    
+}
+
+.Perfil_cuerpo{
+    display: block;
+    width: 100%;
+    text-align: center;
+}
+.Titulo{
+    color:rgb(0, 0, 0);
+    font-size: 60px;
+}
+.informativo{
+text-align: center;
+color: black;
+}
+.logo{
+    margin:10px auto;
+    display:block;
+}
+
+.form-control{
+background-color:ghostwhite;
+outline:none;
+border-radius: 5px;
+}
+.main{
+    padding:40px;
+    margin-top: 70px;
+}
+.botones{
+    margin-left:50px !important;
+    width: 210px;
+color:whitesmoke;
+background-color: green;
+}
+.titulo-texto{
+font-style: italic;
+color: black;
+
+}
+.parrafo{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color:beige;
+font-size:larger;
+padding: 12px;
+}
+.titulo_parrafo{
+    color: beige;
+    text-decoration:underline;
+}
